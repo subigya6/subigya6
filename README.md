@@ -7,14 +7,16 @@ I build python applications, web tools, and full-stack projects that solve real-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,github,vscode" />
 </p>
-<p align="center">
- <img src="logo.png" width="200" alt="Karesabari Logo" />
-</p>
 
-| Karesabari Management System |
-| :--- |
-| **Reviving Nepal's Kitchen Garden with Smart Technology** |
+<div align="center">
+
+| <a href="https://github.com/subigya6/Karesabari-Management-System"><img src="logo.png" width="200" alt="Karesabari Logo" /></a> |
+| :---: |
+| **[Karesabari Management System](https://github.com/subigya6/Karesabari-Management-System)** |
+| *Reviving Nepal's Kitchen Garden with Smart Technology* |
 | Python-based app offering automated watering/harvest alerts, plant diagnostics, and local crop care guides (*rayo ko saag*, tomatoes). |
+
+</div>
 
 ---
 
