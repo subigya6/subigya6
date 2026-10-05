@@ -8,6 +8,7 @@ I build python applications, web tools, and full-stack projects that solve real-
   <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,github,vscode" />
 </p>
 
+| <img src="logo.png" width="100" alt="Karesabari Logo" /> |
 | Karesabari Management System |
 | :--- |
 | **Reviving Nepal's Kitchen Garden with Smart Technology** |
