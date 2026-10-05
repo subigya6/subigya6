@@ -1,6 +1,6 @@
 I build python applications, web tools, and full-stack projects that solve real-world problems.
 
-> "If you're nothing without the suit, then you shouldn't have it." — Spider-Man: Homecoming (2017)
+> "Be yourself; everyone else is already taken." — Oscar Wilde
 
 ## Skills & Projects
 
