@@ -10,6 +10,7 @@ I build python applications, web tools, and full-stack projects that solve real-
 <p align="center">
  <img src="logo.png" width="200" alt="Karesabari Logo" />
 </p>
+
 | Karesabari Management System |
 | :--- |
 | **Reviving Nepal's Kitchen Garden with Smart Technology** |
