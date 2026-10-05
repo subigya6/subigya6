@@ -5,7 +5,7 @@ I build python applications, web tools, and full-stack projects that solve real-
 ## Skills & Projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,SQLite,git,github,vscode" />
 </p>
 
 | Karesabari Management System |
